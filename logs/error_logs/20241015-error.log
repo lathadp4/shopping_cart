@@ -1,0 +1,52 @@
+{"api":"/getProducts","level":"error","message":"Unknown column 'tbl_products.createdDate' in 'order clause'","timestamp":"2024-10-15T16:14:15.332Z"}
+{"api":"/getCartItems","keyword":"user_id","level":"error","message":"user_id should not be empty","timestamp":"2024-10-15T16:29:22.875Z"}
+{"api":"/getCartItems","keyword":"user_id","level":"error","message":"user_id should not be empty","timestamp":"2024-10-15T16:30:21.233Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-15T16:32:27.131Z"}
+{"api":"/addProductToCart","keyword":"product_description","level":"error","message":"product_description should not be empty","timestamp":"2024-10-15T16:32:44.391Z"}
+{"api":"/addProductToCart","keyword":"user_id","level":"error","message":"user_id should not be empty","timestamp":"2024-10-15T16:33:52.764Z"}
+{"api":"/updateProductQuantity/:id","keyword":"product_quantity","level":"error","message":"product_quantity should not be empty","timestamp":"2024-10-15T16:44:18.301Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:01:03.026Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:02:37.722Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:02:55.152Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:03:30.094Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:03:57.332Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:06:13.703Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:06:44.540Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:06:53.027Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:07:46.472Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:07:59.426Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:08:34.385Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:08:35.830Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:09:11.477Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:09:25.957Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:10:42.706Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:10:44.201Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:14:33.354Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:14:40.861Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:15:39.740Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:16:22.338Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:16:37.225Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:16:38.493Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:16:38.717Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:17:08.477Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:17:15.338Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:17:25.076Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:17:33.339Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:17:55.943Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:18:09.760Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:28:17.763Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:28:48.031Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:29:26.294Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:29:55.603Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:30:39.752Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:31:02.650Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:32:43.759Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:36:17.792Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:36:19.625Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:36:21.134Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:36:38.360Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:38:19.068Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:38:29.489Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:38:34.618Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:38:53.232Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-15T18:39:41.909Z"}

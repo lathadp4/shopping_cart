@@ -1,0 +1,25 @@
+{"api":"/createUser","level":"info","message":"Inserted successfully","timestamp":"2024-10-14T11:29:18.123Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-14T11:30:01.189Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-14T11:30:53.439Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-14T11:31:28.813Z"}
+{"api":"/addProductToCart","level":"info","message":"Inserted successfully","timestamp":"2024-10-14T11:34:03.922Z"}
+{"api":"/addProductToCart","level":"info","message":"Inserted successfully","timestamp":"2024-10-14T11:34:27.351Z"}
+{"api":"/getCartItems","level":"info","message":"Cart Data","timestamp":"2024-10-14T11:35:02.715Z"}
+{"api":"/removeProductFromTheCart","level":"info","message":"Deleted successfully","timestamp":"2024-10-14T11:35:48.141Z"}
+{"api":"/getCartItems","level":"info","message":"Cart Data not found","timestamp":"2024-10-14T11:35:55.176Z"}
+{"api":"/addProductToCart","level":"info","message":"Inserted successfully","timestamp":"2024-10-14T11:35:59.783Z"}
+{"api":"/removeProductFromTheCart","level":"info","message":"Deleted successfully","timestamp":"2024-10-14T11:36:06.997Z"}
+{"api":"/getCartItems","level":"info","message":"Cart Data not found","timestamp":"2024-10-14T11:36:10.710Z"}
+{"api":"/login","level":"info","message":"User Does not exist","timestamp":"2024-10-14T11:36:50.386Z"}
+{"api":"/login","level":"info","message":"User Does not exist","timestamp":"2024-10-14T11:37:31.150Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-14T11:37:43.410Z"}
+{"api":"/addProductToCart","level":"info","message":"Inserted successfully","timestamp":"2024-10-14T11:38:02.211Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-14T11:39:14.422Z"}
+{"api":"/login","level":"info","message":"User Does not exist","timestamp":"2024-10-14T11:39:18.515Z"}
+{"api":"/login","level":"info","message":"User Does not exist","timestamp":"2024-10-14T11:39:20.043Z"}
+{"api":"/login","level":"info","message":"User Does not exist","timestamp":"2024-10-14T11:39:24.872Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-14T11:39:42.878Z"}
+{"api":"/getCartItems","level":"info","message":"Cart Data","timestamp":"2024-10-14T11:40:18.023Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-14T11:47:07.688Z"}
+{"api":"/addProductToCart","level":"info","message":"Inserted successfully","timestamp":"2024-10-14T11:47:22.639Z"}
+{"api":"/addProductToCart","level":"info","message":"Inserted successfully","timestamp":"2024-10-14T11:47:48.109Z"}

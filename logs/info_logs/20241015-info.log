@@ -1,0 +1,21 @@
+{"api":"/getProducts","level":"info","message":"Product Data","timestamp":"2024-10-15T16:15:19.571Z"}
+{"api":"/createUser","level":"info","message":"Inserted successfully","timestamp":"2024-10-15T16:28:48.639Z"}
+{"api":"/createUser","level":"info","message":"Inserted successfully","timestamp":"2024-10-15T16:29:10.364Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-15T16:29:16.364Z"}
+{"api":"/getCartItems","level":"info","message":"Cart Data not found","timestamp":"2024-10-15T16:30:34.583Z"}
+{"api":"/removeProductFromTheCart","level":"info","message":"Deleted successfully","timestamp":"2024-10-15T16:30:42.488Z"}
+{"api":"/removeProductFromTheCart","level":"info","message":"Cart data not found","timestamp":"2024-10-15T16:32:11.510Z"}
+{"api":"/removeProductFromTheCart","level":"info","message":"Cart data not found","timestamp":"2024-10-15T16:32:16.832Z"}
+{"api":"/getProducts","level":"info","message":"Product Data","timestamp":"2024-10-15T16:32:23.030Z"}
+{"api":"/addProductToCart","level":"info","message":"Inserted successfully","timestamp":"2024-10-15T16:34:06.502Z"}
+{"api":"/updateProductQuantity/:id","level":"info","message":"Updated successfully","timestamp":"2024-10-15T16:44:56.047Z"}
+{"api":"/updateProductQuantity/:id","level":"info","message":"Updated successfully","timestamp":"2024-10-15T16:45:04.078Z"}
+{"api":"/updateProductQuantity/:id","level":"info","message":"Cart data not found","timestamp":"2024-10-15T16:46:32.826Z"}
+{"api":"/updateProductQuantity/:id","level":"info","message":"Cart data not found","timestamp":"2024-10-15T16:47:16.641Z"}
+{"api":"/updateProductQuantity/:id","level":"info","message":"Updated successfully","timestamp":"2024-10-15T16:47:39.326Z"}
+{"api":"/login","level":"info","message":"User Does not exist","timestamp":"2024-10-15T17:56:51.871Z"}
+{"api":"/login","level":"info","message":"User Does not exist","timestamp":"2024-10-15T17:56:59.812Z"}
+{"api":"/login","level":"info","message":"User Does not exist","timestamp":"2024-10-15T17:58:09.555Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-15T18:17:41.249Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-15T18:18:30.206Z"}
+{"api":"/login","level":"info","message":"Login successful","timestamp":"2024-10-15T18:28:10.801Z"}

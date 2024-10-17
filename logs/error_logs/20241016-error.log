@@ -1,0 +1,365 @@
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:41:26.985Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:41:53.157Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:42:16.692Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:42:54.280Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-15T18:43:29.342Z"}
+{"api":"/removeProductFromTheCart","level":"error","message":"Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2024-10-16T02:06:19.876Z"}
+{"api":"/removeProductFromTheCart","level":"error","message":"Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2024-10-16T02:06:56.105Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-16T04:41:51.952Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.919Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.922Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.925Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.926Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.930Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.932Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.934Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.936Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.941Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.943Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.945Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.947Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.957Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.971Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.979Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:29:19.984Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.324Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.328Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.330Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.332Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.334Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.336Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.338Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.340Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.342Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.346Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.349Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.351Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.353Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.357Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.358Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.364Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.430Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.436Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.438Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.440Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.442Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.447Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.449Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.453Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.455Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.457Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.458Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.461Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.465Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.470Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.472Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.473Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.938Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.940Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.942Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.946Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.948Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.950Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.953Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.955Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.957Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.959Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.961Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.966Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.968Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.972Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.975Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.978Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.988Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.990Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.992Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.996Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:04.998Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.002Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.005Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.012Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.017Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.020Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.023Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.026Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.030Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.034Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.036Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.038Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.089Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.091Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.093Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.097Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.099Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.101Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.103Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.105Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.107Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.108Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.111Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.115Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.117Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.120Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.122Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.124Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.157Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.159Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.161Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.164Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.171Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.174Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.175Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.178Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.180Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.183Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.186Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.189Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.191Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.193Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.195Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:30:05.204Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.350Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.382Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.393Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.398Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.510Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.635Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.662Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.693Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.696Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.699Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.708Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.712Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.715Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.726Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.729Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.732Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.741Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.744Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.747Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.756Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.760Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.763Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.838Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.850Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.890Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.928Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.934Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.972Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:53.979Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:54.021Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:54.029Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:35:54.065Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.076Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.080Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.082Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.084Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.087Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.089Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.092Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.094Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.097Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.099Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.103Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.105Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.107Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.121Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.164Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:39:27.179Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:44.968Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:44.971Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:44.973Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:44.975Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:44.977Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:44.997Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:44.999Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.001Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.007Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.008Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.014Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.016Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.018Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.020Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.025Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:43:45.030Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.238Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.246Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.248Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.250Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.252Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.254Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.259Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.263Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.266Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.270Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.275Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.281Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.283Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.293Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.295Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:44:25.298Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T08:46:13.695Z"}
+{"api":"/addProductToCart","level":"error","message":"Incorrect integer value: 'undefined' for column 'user_id' at row 1","timestamp":"2024-10-16T08:49:10.897Z"}
+{"api":"/addProductToCart","level":"error","message":"Incorrect integer value: 'undefined' for column 'user_id' at row 1","timestamp":"2024-10-16T08:49:39.817Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-16T14:50:06.152Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T14:50:16.879Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T15:38:39.728Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T15:38:39.796Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:38:40.157Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:38:40.188Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:38:40.204Z"}
+{"api":"/login","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T15:40:05.758Z"}
+{"api":"/login","level":"error","message":"password should not be empty","timestamp":"2024-10-16T15:40:05.802Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:40:05.917Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:40:05.942Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:40:05.955Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T15:40:40.386Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T15:40:40.420Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:40:40.512Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:40:40.538Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:40:40.550Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T15:49:00.657Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T15:57:10.413Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T15:57:10.440Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:57:10.506Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T15:57:10.524Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:00:48.180Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:00:48.200Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T16:00:48.269Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T16:00:48.287Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T16:00:48.297Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T16:00:48.307Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:05:34.253Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:05:34.281Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:11:17.344Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:11:17.358Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:13:52.028Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:13:52.045Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:16:47.627Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:16:47.650Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:18:44.466Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:18:44.485Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:20:01.847Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:20:01.859Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:22:23.288Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:22:23.302Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:28:30.046Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:28:30.062Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:29:44.779Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:29:44.817Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:32:07.108Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:32:07.122Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:38:25.813Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:38:25.826Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:39:59.071Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:39:59.087Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:40:34.367Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:40:34.380Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:41:13.351Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:41:13.366Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:45:38.996Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:45:39.020Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:46:05.276Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:46:05.295Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:46:46.691Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:46:46.705Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T16:48:31.852Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T16:48:31.867Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:09:18.648Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:09:18.677Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:09:18.688Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:09:18.695Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:09:18.703Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:14:38.246Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:14:38.267Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:14:38.277Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:14:38.284Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:14:38.291Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:16:08.722Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:16:08.738Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:16:08.750Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:16:08.757Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:16:08.765Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:18:38.971Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:18:38.993Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:18:39.004Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:18:39.012Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:18:39.020Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:20:14.425Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:20:14.445Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:20:14.458Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:20:14.465Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:20:14.472Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:23:15.247Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:23:15.293Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:23:15.304Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:23:15.313Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:23:15.323Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:26:38.426Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:26:38.445Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:26:38.455Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:26:38.463Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:26:38.471Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:28:03.481Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:28:03.495Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:28:03.504Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:28:03.509Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:28:03.514Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:28:48.840Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:28:48.858Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:28:48.865Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:28:48.873Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:28:48.881Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:29:39.131Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:29:39.148Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:29:39.155Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:29:39.163Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:29:39.168Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:30:49.119Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:30:49.139Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:30:49.146Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:30:49.152Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:30:49.157Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:34:19.312Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:34:19.336Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:34:19.343Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:34:19.349Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:34:19.355Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:36:21.995Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:36:22.015Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:36:22.027Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:36:22.033Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:36:22.040Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:37:51.873Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:37:51.888Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:37:51.895Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:37:51.901Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:37:51.906Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:38:40.080Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:38:40.096Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:38:40.105Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:38:40.110Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:38:40.116Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:40:55.907Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:40:55.925Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:40:55.934Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:40:55.939Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:40:55.948Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:42:54.893Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:42:54.910Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:42:54.918Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:42:54.923Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:42:54.928Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:45:43.041Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:45:43.052Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:45:43.065Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:45:43.071Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:45:43.079Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-16T17:47:05.374Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-16T17:47:05.387Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:47:05.402Z"}
+{"api":"/login","level":"error","message":"User Does not exist","timestamp":"2024-10-16T17:47:05.409Z"}
+{"api":"/addProductToCart","keyword":"product_title","level":"error","message":"product_title should not be empty","timestamp":"2024-10-16T18:06:24.504Z"}
+{"api":"/addProductToCart","level":"error","message":"Incorrect integer value: '\"3\"' for column 'user_id' at row 1","timestamp":"2024-10-16T18:08:48.156Z"}
+{"api":"/addProductToCart","level":"error","message":"Incorrect integer value: '\"3\"' for column 'user_id' at row 1","timestamp":"2024-10-16T18:08:56.672Z"}
+{"api":"/addProductToCart","level":"error","message":"Incorrect integer value: '\"3\"' for column 'user_id' at row 1","timestamp":"2024-10-16T18:09:23.825Z"}

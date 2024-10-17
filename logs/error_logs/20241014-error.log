@@ -1,0 +1,13 @@
+{"api":"/createUser","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-14T11:26:26.568Z"}
+{"api":"/createUser","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-14T11:26:36.405Z"}
+{"api":"/createUser","level":"error","message":"notNull Violation: tbl_user.createdDate cannot be null","timestamp":"2024-10-14T11:27:55.698Z"}
+{"api":"/login","keyword":"user_name","level":"error","message":"user_name should not be empty","timestamp":"2024-10-14T11:29:37.401Z"}
+{"api":"/login","keyword":"password","level":"error","message":"password should not be empty","timestamp":"2024-10-14T11:29:49.465Z"}
+{"api":"/addProductToCart","keyword":"product_name","level":"error","message":"product_name should not be empty","timestamp":"2024-10-14T11:32:33.226Z"}
+{"api":"/addProductToCart","keyword":"product_price","level":"error","message":"product_price should not be empty","timestamp":"2024-10-14T11:32:53.435Z"}
+{"api":"/addProductToCart","keyword":"product_id","level":"error","message":"product_id should not be empty","timestamp":"2024-10-14T11:33:02.589Z"}
+{"api":"/addProductToCart","keyword":"product_quantity","level":"error","message":"product_quantity should not be empty","timestamp":"2024-10-14T11:33:10.379Z"}
+{"api":"/addProductToCart","keyword":"product_quantity","level":"error","message":"product_quantity should not be empty","timestamp":"2024-10-14T11:33:17.333Z"}
+{"api":"/addProductToCart","level":"error","message":"notNull Violation: tbl_cart.createdDate cannot be null","timestamp":"2024-10-14T11:33:21.011Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-14T11:37:38.306Z"}
+{"api":"/login","level":"error","message":"Username or password incorrect","timestamp":"2024-10-14T11:39:30.209Z"}
