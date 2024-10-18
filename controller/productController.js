@@ -20,6 +20,10 @@
                 queryCondition // The conditions to apply when querying
             );
         };
+
+        this.updateProductInfo = function (updateObj, condition) {
+            return productsHandler.update(updateObj, condition, tableName);
+        }
     }
 
     // Exporting the productController for use in other modules

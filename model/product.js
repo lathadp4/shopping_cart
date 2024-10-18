@@ -27,7 +27,12 @@ module.exports = function (sequelize, DataTypes) {
             rating: {
                 type: DataTypes.DECIMAL, // Data type for the rating field
                 allowNull: true // Rating can be null
+            },
+            stock: {
+                type: DataTypes.INTEGER,
+                allowNull: true
             }
+
         }, {
         tableName: 'tbl_products', // Name of the table in the database
         timestamps: false // Disable automatic timestamp fields (createdAt, updatedAt)

@@ -1,6 +1,8 @@
 // Importing the cart controller to interact with cart data
 const controller = require("../controller/cartController");
 const cartControllerObj = new controller.cartController();
+const productController = require("../controller/productController");
+const productControllerObj = new productController.productController();
 
 function cartService() {
     /** 
@@ -45,44 +47,84 @@ function cartService() {
      * @param {Function} callback - The callback function to return the response.
      */
     this.insertDataToCart = function (cartObj, apiResponse, callback) {
-        return cartControllerObj.getFilteredDataWithCondition(cartObj).then((responseData) => {
-            // If no existing cart item is found, create a new one
-            if (responseData.length == 0) {
-                return cartControllerObj
-                    .createCartData(cartObj)
-                    .then(function (response) {
-                        apiResponse.status = true;
-                        apiResponse.message = "Inserted successfully";
-                        apiResponse.data = response;
-                        callback(null, apiResponse);
-                    })
-                    .catch(function (err) {
-                        // Handle errors during insertion
-                        apiResponse.status = false;
-                        apiResponse.message = "Failed to insert";
-                        apiResponse.data = err;
-                        callback(err, apiResponse);
-                    });
+        var condition = { title: cartObj.product_title }
+        return productControllerObj.getFilteredDataWithCondition(condition).then((productResponse) => {
+            if (productResponse.length == 0) {
+                apiResponse.status = false;
+                apiResponse.message = "Product not found";
+                apiResponse.data = [];
+                callback(null, apiResponse)
             } else {
-                // If item exists, update the quantity
-                var updateQuantity = { product_quantity: responseData[0].product_quantity + 1 };
-                return cartControllerObj
-                    .updateCartData(updateQuantity, { id: responseData[0].id })
-                    .then(function (response) {
-                        apiResponse.status = true;
-                        apiResponse.message = "Updated successfully";
-                        apiResponse.data = response;
-                        callback(null, apiResponse);
-                    })
-                    .catch(function (err) {
-                        // Handle errors during update
-                        apiResponse.status = false;
-                        apiResponse.message = "Failed to insert";
-                        apiResponse.data = err;
-                        callback(err, apiResponse);
+                var productStock = productResponse[0].stock;
+                if (productStock != 0) {
+                    return cartControllerObj.getFilteredDataWithCondition(cartObj).then((responseData) => {
+                        // If no existing cart item is found, create a new one
+                        if (responseData.length == 0) {
+                            return cartControllerObj
+                                .createCartData(cartObj)
+                                .then(function (response) {
+                                    var updatingObj = { stock: Number(productStock) - 1 }
+                                    return productControllerObj.updateProductInfo(updatingObj, condition).then((result) => {
+                                        apiResponse.status = true;
+                                        apiResponse.message = "Inserted successfully";
+                                        apiResponse.data = response;
+                                        callback(null, apiResponse);
+                                    }).catch(function (err) {
+                                        // Handle errors during insertion
+                                        apiResponse.status = false;
+                                        apiResponse.message = "Failed to update ";
+                                        apiResponse.data = err;
+                                        callback(err, apiResponse);
+                                    });
+
+                                })
+                                .catch(function (err) {
+                                    // Handle errors during insertion
+                                    apiResponse.status = false;
+                                    apiResponse.message = "Failed to insert";
+                                    apiResponse.data = err;
+                                    callback(err, apiResponse);
+                                });
+                        } else {
+                            // If item exists, update the quantity
+                            var updateQuantity = { product_quantity: responseData[0].product_quantity + 1 };
+                            return cartControllerObj
+                                .updateCartData(updateQuantity, { id: responseData[0].id })
+                                .then(function (response) {
+                                    console.log("responnse...........", response)
+                                    var updatingObj = { stock: Number(productStock) - 1 }
+                                    console.log("updatingObj", updatingObj, "condition", condition)
+                                    return productControllerObj.updateProductInfo(updatingObj, condition).then((result) => {
+                                        apiResponse.status = true;
+                                        apiResponse.message = "Inserted successfully";
+                                        apiResponse.data = [];
+                                        callback(null, apiResponse);
+                                    }).catch(function (err) {
+                                        // Handle errors during insertion
+                                        apiResponse.status = false;
+                                        apiResponse.message = "Failed to update ";
+                                        apiResponse.data = err;
+                                        callback(err, apiResponse);
+                                    });
+                                })
+                                .catch(function (err) {
+                                    // Handle errors during update
+                                    apiResponse.status = false;
+                                    apiResponse.message = "Failed to insert";
+                                    apiResponse.data = err;
+                                    callback(err, apiResponse);
+                                });
+                        }
                     });
+                } else {
+                    apiResponse.status = false;
+                    apiResponse.message = "Can't able to add product to the cart stocks not available"
+                    apiResponse.data = []
+                    callback(null, apiResponse)
+                }
             }
-        });
+        })
+
     };
     /** End of insertDataToCart function */
 
